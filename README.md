@@ -1,6 +1,6 @@
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
 
-### Developed by: POZILAN V D
+### Developed by: POZHILAN V D
 ### Register no: 212223240118
 
 
